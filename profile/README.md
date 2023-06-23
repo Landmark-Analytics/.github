@@ -1,3 +1,5 @@
-# Landmark Analytics
+<p align="center">
+  <img src="Landmark-stacked-dark-text-light-bg.png" alt="drawing" style="width:200px;"/>
+</p>
 
-http://LandmarkAnalytics.com
+[LandmarkAnalytics.com](http://LandmarkAnalytics.com) | [LinkedIn](https://www.linkedin.com/company/landmark-analytics/)
